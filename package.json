@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "parcel ./index.html",
-    "bulid": "parcel bulid ./index.html",
-    "vercel": "vercel dev"
+    "bulid": "parcel bulid ./index.html"
   },
   "keywords": [],
   "author": "",
